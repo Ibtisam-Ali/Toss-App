@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    text-align: center;
+}
+.head1{
+    color:rgb(176, 99, 247);
+    
+}
+.head2{
+    color: rgb(174, 142, 205);
+}
+.head{
+    color: teal;
+}
+.result{
+    color: teal;
+}
+.btn1{
+    font-size: x-large;
+    padding: 5px;
+    border-radius: 9px;
+    color: greenyellow;
+    background-color:blue;
+}
+.btn2{
+    
+    border-radius: 7.5px;
+    font-size: x-large;
+    padding: 4.5px;
+    width: 70px;
+    color: greenyellow;
+    background-color:blue;
+    
+}
+.btn1:hover{
+   background-color:cadetblue;
+}
+.btn2:hover{
+   background-color:cadetblue;
+}
